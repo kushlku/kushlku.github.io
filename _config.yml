@@ -1,7 +1,7 @@
 # Basic site settings
 title: "Kushal Kumar"
-description: "Applied Scientist | AI/ML Research | MS CS Applicant"
-url: "https://YOUR_USERNAME.github.io"
+description: "Applied Scientist II | Amazon"
+url: "https://kushlku.github.io"
 baseurl: "" # Keep blank for a user/organization site
 
 # Theme
@@ -19,16 +19,16 @@ author:
       url: "/assets/resume.pdf"
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
-      url: "https://scholar.google.com/"
+      url: "https://scholar.google.com/citations?user=DQwPDxIAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/YOUR_USERNAME"
+      url: "https://github.com/kushlku"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/YOUR_LINKEDIN"
+      url: "https://www.linkedin.com/in/kushal-kumar-1a8554118/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:kushal@example.com"
+      url: "mailto:kushal@amazon.com"
 
 # Plugins (must be whitelisted by GitHub Pages)
 plugins:
