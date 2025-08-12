@@ -1,24 +1,23 @@
 # Basic site settings
 title: "Kushal Kumar"
-description: "Applied Scientist II | Amazon"
+description: "Applied Scientist II"
 url: "https://kushlku.github.io"
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Author profile
 author:
   name: "Kushal Kumar"
   avatar: "/assets/headshot.jpg"
   bio: "Applied Scientist @ Amazon | Research in Retrieval, Multimodal AI, Continual Learning"
-  location: "Seattle, WA"
+  location: "New York, NY"
   links:
     - label: "Resume"
       icon: "fas fa-file-alt"
       url: "/assets/resume.pdf"
     - label: "Google Scholar"
       icon: "google-scholar"
-      icon_pack: "ai"
       url: "https://scholar.google.com/citations?user=DQwPDxIAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-github"
