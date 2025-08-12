@@ -1,6 +1,13 @@
+# Basic site settings
 title: "Kushal Kumar"
 description: "Applied Scientist | AI/ML Research | MS CS Applicant"
 url: "https://YOUR_USERNAME.github.io"
+baseurl: "" # Keep blank for a user/organization site
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes"
+
+# Author profile
 author:
   name: "Kushal Kumar"
   avatar: "/assets/headshot.jpg"
@@ -23,9 +30,36 @@ author:
       icon: "fas fa-envelope"
       url: "mailto:kushal@example.com"
 
-theme: minimal-mistakes-jekyll
+# Plugins (must be whitelisted by GitHub Pages)
 plugins:
+  - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-feed
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - publications.md
+  - projects.md
+  - cv.md
+
+# Theme settings
+minimal_mistakes_skin: "default" # other skins: air, contrast, dark, neon
+markdown: kramdown
+highlighter: rouge
+
+# Collections
+collections:
+  posts:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
