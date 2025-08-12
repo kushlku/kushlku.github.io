@@ -1,0 +1,31 @@
+title: "Kushal Kumar"
+description: "Applied Scientist | AI/ML Research | MS CS Applicant"
+url: "https://YOUR_USERNAME.github.io"
+author:
+  name: "Kushal Kumar"
+  avatar: "/assets/headshot.jpg"
+  bio: "Applied Scientist @ Amazon | Research in Retrieval, Multimodal AI, Continual Learning"
+  location: "Seattle, WA"
+  links:
+    - label: "Resume"
+      icon: "fas fa-file-alt"
+      url: "/assets/resume.pdf"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/YOUR_USERNAME"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/YOUR_LINKEDIN"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:kushal@example.com"
+
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
