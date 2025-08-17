@@ -80,7 +80,7 @@ document.addEventListener("DOMContentLoaded", function(){
 }
 
 .tablink.active {
-  /*background: #2c3e50;       !* dark blue-gray for a formal feel *!*/
+  background: #2c3e50;       !* dark blue-gray for a formal feel *!
   color: white;              /* white text for contrast */
   border-color: #1a2a36;     /* slightly darker border */
 }
