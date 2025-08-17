@@ -12,10 +12,15 @@ Hi, I’m Kushal Kumar. Applied Scientist at Amazon, working on AI/ML research. 
 
 <!-- Tabs -->
 <div class="tabs">
-  <button class="tablink active" onclick="openTab(event,'projects')">Projects</button>
+  <button class="tablink active" onclick="openTab(event,'about')">About</button>  
+  <button class="tablink" onclick="openTab(event,'projects')">Projects</button>
   <button class="tablink" onclick="openTab(event,'publications')">Publications</button>
   <button class="tablink" onclick="openTab(event,'education')">Education</button>
   <button class="tablink" onclick="openTab(event,'hobbies')">Hobbies</button>
+</div>
+
+<div id="about" class="tabcontent" markdown="1">
+  {% include about.md %}
 </div>
 
 <div id="projects" class="tabcontent" markdown="1">

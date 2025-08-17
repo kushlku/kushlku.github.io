@@ -10,7 +10,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 author:
   name: "Kushal Kumar"
   avatar: "/assets/headshot.jpg"
-  bio: "Applied Scientist II @ Amazon.com"
+  bio: "Applied Scientist II @ Amazon"
   location: "New York, NY"
   links:
     - label: "LinkedIn"
@@ -50,7 +50,7 @@ navbar:
     url: "#hobbies"
 
 # Theme settings
-minimal_mistakes_skin: "dark" # other skins: default, air, contrast, dark, neon
+minimal_mistakes_skin: "default" # other skins: default, air, contrast, dark, neon
 markdown: kramdown
 highlighter: rouge
 
