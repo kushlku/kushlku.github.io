@@ -14,7 +14,7 @@ Outside of my academic and professional pursuits, I love enjoying the simple ple
 
 ## 🎲 Strategy & Games
 - Most of my weekends are spent playing some card and board games with my friends.
-- Favorite games are Catan and Monodeal.
+- Favorite games are low stakes Poker, Catan and Monodeal.
 
 ---
 
