@@ -3,6 +3,7 @@ layout: home
 author_profile: true
 title: ""
 hide_title: true
+show_recent_posts: false   # hides Recent Posts in sidebar
 ---
 
 <!-- Tabs -->
