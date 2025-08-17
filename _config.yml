@@ -37,14 +37,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-## Navigation
-#header_pages:
-#  - index.md
-#  - about.md
-#  - publications.md
-#  - projects.md
-#  - cv.md
-
 navbar:
   - title: "About"
     url: "#about"
