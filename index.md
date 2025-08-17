@@ -8,9 +8,9 @@ show_recent_posts: false   # hides Recent Posts in sidebar
 
 <!-- Tabs -->
 <div class="tabs">
-  <button class="tablink active" onclick="openTab(event,'about')">About</button>  
-  <button class="tablink" onclick="openTab(event,'projects')">Projects</button>
+  <button class="tablink active" onclick="openTab(event,'about')">About</button>
   <button class="tablink" onclick="openTab(event,'publications')">Publications</button>
+  <button class="tablink" onclick="openTab(event,'projects')">Projects</button>
   <button class="tablink" onclick="openTab(event,'education')">Education</button>
   <button class="tablink" onclick="openTab(event,'hobbies')">Hobbies</button>
 </div>
@@ -19,12 +19,12 @@ show_recent_posts: false   # hides Recent Posts in sidebar
   {% include about.md %}
 </div>
 
-<div id="projects" class="tabcontent" markdown="1">
-  {% include projects.md %}
-</div>
-
 <div id="publications" class="tabcontent" markdown="1">
   {% include publications.md %}
+</div>
+
+<div id="projects" class="tabcontent" markdown="1">
+  {% include projects.md %}
 </div>
 
 <div id="education" class="tabcontent" markdown="1">
