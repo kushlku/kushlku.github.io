@@ -13,18 +13,18 @@ author:
   bio: "Applied Scientist II @ Amazon.com"
   location: "New York, NY"
   links:
-    - label: "Resume"
-      icon: "fas fa-file-alt"
-      url: "/assets/resume.pdf"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/kushal-kumar-1a8554118/"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=DQwPDxIAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/kushlku"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/kushal-kumar-1a8554118/"
+    - label: "Resume"
+      icon: "fas fa-file-alt"
+      url: "/assets/resume.pdf"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:kushlku@amazon.com"
@@ -37,13 +37,25 @@ plugins:
   - jekyll-seo-tag
   - jekyll-include-cache
 
-# Navigation
-header_pages:
-  - index.md
-  - about.md
-  - publications.md
-  - projects.md
-  - cv.md
+## Navigation
+#header_pages:
+#  - index.md
+#  - about.md
+#  - publications.md
+#  - projects.md
+#  - cv.md
+
+navbar:
+  - title: "About"
+    url: "#about"
+  - title: "Projects"
+    url: "#projects"
+  - title: "Publications"
+    url: "#publications"
+  - title: "Education"
+    url: "#education"
+  - title: "Hobbies"
+    url: "#hobbies"
 
 # Theme settings
 minimal_mistakes_skin: "dark" # other skins: default, air, contrast, dark, neon
