@@ -1,7 +1,8 @@
 ---
 layout: home
 author_profile: true
-title: "Welcome!"
+title: ""
+hide_title: true
 ---
 
 <!-- Tabs -->
