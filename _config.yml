@@ -39,11 +39,11 @@ plugins:
 
 # Navigation
 header_pages:
-  - index.md
-  - about.md
-  - publications.md
-  - projects.md
-  - cv.md
+  - pages/index.md
+  - pages/about.md
+  - pages/publications.md
+  - pages/projects.md
+  - pages/cv.md
 
 # Theme settings
 minimal_mistakes_skin: "dark" # other skins: default, air, contrast, dark, neon
