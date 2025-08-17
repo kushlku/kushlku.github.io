@@ -57,25 +57,32 @@ document.addEventListener("DOMContentLoaded", function(){
 </script>
 
 <style>
-.tabs {
+..tabs {
   display: flex;
-  gap: 10px;
+  gap: 8px;
   margin-bottom: 20px;
   flex-wrap: wrap;
 }
+
 .tablink {
-  background: #eee;
-  border: none;
-  padding: 10px 15px;
+  background: #f5f5f5;      /* light neutral background */
+  border: 1px solid #ccc;   /* subtle border */
+  padding: 8px 14px;
   cursor: pointer;
   border-radius: 4px;
+  font-weight: 500;          /* semi-bold text */
+  transition: background 0.2s, color 0.2s;
+  color: #333;               /* dark text for readability */
 }
+
+.tablink:hover {
+  background: #e0e0e0;       /* slightly darker on hover */
+}
+
 .tablink.active {
-  background: #007acc;
-  color: white;
+  background: #2c3e50;       /* dark blue-gray for a formal feel */
+  color: white;              /* white text for contrast */
+  border-color: #1a2a36;     /* slightly darker border */
 }
-.tabcontent {
-  display: none;
-  padding-top: 1rem;
-}
+
 </style>
