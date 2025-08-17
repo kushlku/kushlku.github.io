@@ -1,6 +1,6 @@
 
 ### 2025
-- Query-Adaptive Robust Vector Search Policy<br>
+- Approximate Nearest Neighbor work<br>
   Under review in SIGMOD'2026.<br>
 
 ### 2023
