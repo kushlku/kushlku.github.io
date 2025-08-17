@@ -18,7 +18,7 @@ Outside of my academic and professional pursuits, I find opportunities to cheris
   - *Think Again* by Adam Grant.  
   - *Sapiens* by Yuval Noah Harari.  
 - Actively engage in philosophical debates, exploring diverse perspectives on human behavior, existentialism, theology and meaning of life.
-- Overthinker.
+- Overthinking.
 
 ---
 
