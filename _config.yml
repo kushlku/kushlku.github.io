@@ -45,7 +45,7 @@ navbar:
   - title: "Publications"
     url: "#publications"
   - title: "Education"
-    url: "#education"
+    url: "#education.md"
   - title: "Hobbies"
     url: "#hobbies"
 
