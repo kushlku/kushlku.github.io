@@ -1,9 +1,3 @@
----
-title: "Education"
-permalink: /education/
-layout: single
----
-
 #### Multimodal Entity Resolution
 Combined textual, visual, and structured features for robust product matching in e-commerce.
 **Tools:** PyTorch, Hugging Face, Faiss | **Impact:** Deployed across 10M+ products.

@@ -1,10 +1,3 @@
----
-title: "About Me"
-permalink: /about/
-layout: single
-author_profile: true
----
-
 I am an applied scientist with a Bachelor's in Mathematics and 5+ years of experience applying cutting-edge ML techniques at Amazon.
 
 **Research Interests:**

@@ -51,6 +51,7 @@ navbar:
 
 # Theme settings
 minimal_mistakes_skin: "default" # other skins: default, air, contrast, dark, neon
+theme_mode: "light"   # force light mode, ignore user preference
 markdown: kramdown
 highlighter: rouge
 

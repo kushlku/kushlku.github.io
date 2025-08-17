@@ -1,9 +1,3 @@
----
-title: "Publications"
-permalink: /publications/
-layout: single
----
-
 ### 2023
 - **Improving Recall in Large-Scale Retrieval via Reinforcement Learning**  
   *K. Kumar*, A. Smith, B. Lee  
