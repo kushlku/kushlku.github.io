@@ -1,4 +1,5 @@
 # Basic site settings
+title: "Kushal Kumar"
 url: "https://kushlku.github.io"
 
 # Theme
@@ -20,7 +21,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/kushlku"
-    - label: "Resume"
+    - label: "CV"
       icon: "fas fa-file-alt"
       url: "/assets/resume.pdf"
     - label: "Email"
