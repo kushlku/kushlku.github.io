@@ -1,6 +1,5 @@
-# Hobbies & Interests
 
-Outside my academic and professional pursuits, I love enjoying the simple pleasures of life.
+Outside of my academic and professional pursuits, I love enjoying the simple pleasures of life.
 
 ---
 
@@ -25,3 +24,11 @@ Outside my academic and professional pursuits, I love enjoying the simple pleasu
   - *Think Again* by Adam Grant.  
   - *Sapiens* by Yuval Noah Harari.  
 - Actively engage in philosophical debates, exploring diverse perspectives on human behavior, existentialism, theology and meaning of life.  
+
+---
+
+## 🌍 Travel
+- Recently developed an interest in exploring new places, cultures, and cuisines.  
+- This is very much a borrowed hobby from my wife, whose passion for travel has inspired me to embrace it as well.   
+
+---
