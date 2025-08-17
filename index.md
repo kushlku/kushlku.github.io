@@ -1,13 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "Home"
----
-
-## Welcome
-
-Hi, I’m Kushal Kumar. Applied Scientist at Amazon, working on AI/ML research. This page summarizes my projects, publications, education, and hobbies.
-
+title: "Welcome!"
 ---
 
 <!-- Tabs -->
