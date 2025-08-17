@@ -4,20 +4,20 @@ description: "Applied Scientist II"
 url: "https://kushlku.github.io"
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@latest"
 
 # Author profile
 author:
   name: "Kushal Kumar"
   avatar: "/assets/headshot.jpg"
-  bio: "Applied Scientist @ Amazon | Research in Retrieval, Multimodal AI, Continual Learning"
+  bio: "Applied Scientist II @ Amazon.com"
   location: "New York, NY"
   links:
     - label: "Resume"
       icon: "fas fa-file-alt"
       url: "/assets/resume.pdf"
     - label: "Google Scholar"
-      icon: "google-scholar"
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=DQwPDxIAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-github"
@@ -27,7 +27,7 @@ author:
       url: "https://www.linkedin.com/in/kushal-kumar-1a8554118/"
     - label: "Email"
       icon: "fas fa-envelope"
-      url: "mailto:kushal@amazon.com"
+      url: "mailto:kushlku@amazon.com"
 
 # Plugins (must be whitelisted by GitHub Pages)
 plugins:
@@ -46,7 +46,7 @@ header_pages:
   - cv.md
 
 # Theme settings
-minimal_mistakes_skin: "default" # other skins: air, contrast, dark, neon
+minimal_mistakes_skin: "dark" # other skins: default, air, contrast, dark, neon
 markdown: kramdown
 highlighter: rouge
 
