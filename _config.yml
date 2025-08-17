@@ -4,7 +4,7 @@ description: "Applied Scientist II"
 url: "https://kushlku.github.io"
 
 # Theme
-remote_theme: "mmistakes/minimal-mistakes@latest"
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Author profile
 author:
