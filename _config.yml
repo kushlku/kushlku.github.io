@@ -1,6 +1,7 @@
 # Basic site settings
 title: "Kushal Kumar"
 url: "https://kushlku.github.io"
+show_recent_posts: false
 
 # Theme
 remote_theme: "mmistakes/minimal-mistakes"
