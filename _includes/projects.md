@@ -29,3 +29,4 @@ product attribute and locale, creating an operationally efficient model-building
 | Timeline  | Libraries            |
 |-----------|----------------------|
 | 2021–2022 | HuggingFace, Pytorch |
+
