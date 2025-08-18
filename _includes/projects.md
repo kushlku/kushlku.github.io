@@ -20,3 +20,12 @@ outperformed the existing token-overlap based blocking system.
 |------------|------------------------------|
 | 2022–2023  | AWS OpenSearch, PyTorch Distributed |
 
+
+### Multi-Attribute Entity Extraction using Transformers
+Extended Convolutional Neural Network (CNN) based single-attribute entity extraction to multi-attribute entity
+extraction using more capacity transformer architecture. This reduced the need to maintain separate models per 
+product attribute and locale, creating an operationally efficient model-building pipeline and faster goal delivery. 
+
+| Timeline  | Libraries            |
+|-----------|----------------------|
+| 2021–2022 | HuggingFace, Pytorch |
