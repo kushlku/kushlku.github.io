@@ -1,7 +1,6 @@
 
-Outside of my academic and professional pursuits, I find opportunities to cherish the simple pleasures of life, as simple as staring outside a window.
-
----
+Beyond my academic and professional endeavors, I take delight in life’s quieter joys—sometimes as simple as gazing
+out of a window and letting the world pass by. But I do have some hobbies too, where I do more than gazing.
 
 ## 🏏 Cricket
 - Lifelong passion for the sport.
