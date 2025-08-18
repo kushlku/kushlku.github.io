@@ -1,5 +1,5 @@
 
-Beyond my academic and professional endeavors, I take delight in life’s quieter joys, sometimes as simple as gazing
+Beyond my academic and professional endeavors, I take delight in life’s simpler joys, sometimes as simple as gazing
 out of a window. But I do have some hobbies too, where I do more than gazing.
 
 ## 🏏 Cricket
