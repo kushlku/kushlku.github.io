@@ -5,7 +5,10 @@ generative AI to improve product variation curation and correction. Key innovati
 clustering as a practical alternative to micro-clustering to scale pairwise matching, and (2) leveraging 
 graph-pruning techniques to filter out least informative cluster-to-cluster decisions.
 
-**2024-2025** | **Tools:** AWS Sagemaker, AWS EMR, Pyspark | **Models:** CLIP, QWEN2.5-3B, CLaude Sonnet 4
+| Timeline  | Tools                     | Models                     |
+|-----------|---------------------------|----------------------------|
+| 2024–2025 | AWS SageMaker, AWS EMR, PySpark | CLIP, QWEN2.5-3B, Claude Sonnet 4 |
+
 
 ### Scalable Product Retrieval Service
 Built a scalable product retrieval service using multi-modal CLIP-like models trained in a distributed setup. 
@@ -13,4 +16,7 @@ Optimized for large-batch contrastive learning, the models demonstrated strong g
 relationships, enabling task-agnostic blocking for large-scale pairwise workflows. The service significantly 
 outperformed the existing token-overlap based blocking system.
 
-**2022-2023** | **Tools:** AWS OpenSearch, Pytorch Distributed
+| Timeline   | Tools                        |
+|------------|------------------------------|
+| 2022–2023  | AWS OpenSearch, PyTorch Distributed |
+
