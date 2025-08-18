@@ -5,9 +5,9 @@ generative AI to improve product variation curation and correction. Key innovati
 clustering as a practical alternative to micro-clustering to scale pairwise matching, and (2) leveraging 
 graph-pruning techniques to filter out least informative cluster-to-cluster decisions.
 
-| Timeline  | Tools                     | Models                     |
-|-----------|---------------------------|----------------------------|
-| 2024–2025 | AWS SageMaker, AWS EMR, PySpark | CLIP, QWEN2.5-3B, Claude Sonnet 4 |
+| Timeline  | Tools                     | Models                            |
+|-----------|---------------------------|-----------------------------------|
+| 2024–2025 | AWS SageMaker, AWS EMR, PySpark | CLIP, Qwen2.5-3B, Claude Sonnet 4 |
 
 
 ### Scalable Product Retrieval Service
