@@ -1,6 +1,6 @@
 
-Beyond my academic and professional endeavors, I take delight in life’s quieter joys—sometimes as simple as gazing
-out of a window and letting the world pass by. But I do have some hobbies too, where I do more than gazing.
+Beyond my academic and professional endeavors, I take delight in life’s quieter joys, sometimes as simple as gazing
+out of a window. But I do have some hobbies too, where I do more than gazing.
 
 ## 🏏 Cricket
 - Lifelong passion for the sport.
@@ -12,7 +12,7 @@ out of a window and letting the world pass by. But I do have some hobbies too, w
 
 
 ## 📚 Reading & Intellectual Exploration
-- Passionate about reading books on history of science, psychology and philosophy.  
+- Enjoy reading books on history of science, psychology and philosophy.  
 - Some of my favorite books are:
   - *Think Again* by Adam Grant.  
   - *Sapiens* by Yuval Noah Harari.  
@@ -22,8 +22,8 @@ out of a window and letting the world pass by. But I do have some hobbies too, w
 ---
 
 ## 🎲 Strategy & Games
-- Most of my weekends are spent playing some card and board games with my friends.
-- Some of my favorite games are low stakes Poker, Catan and Monodeal.
+- Many of my weekends are spent playing some card and board games with my friends and family.
+- Some of my favorite games are low stakes Poker, Catan and Secret Hitler.
 
 ---
 
