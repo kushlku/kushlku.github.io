@@ -1,0 +1,8 @@
+---
+# Only front matter so Jekyll processes it.
+---
+@import "minimal-mistakes"; // import theme first
+
+html {
+  font-size: 9px; // Adjust this value as needed
+}
