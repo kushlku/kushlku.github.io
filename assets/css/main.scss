@@ -8,15 +8,10 @@
 .author__content,
 .author__name,
 .author__bio {
-  font-size: 1rem; // default
+  font-size: 0.9rem;
 }
 
 /* Main content pages */
 .page__content {
-  font-size: 0.9rem; // smaller
-}
-
-/* Only homepage */
-body.home .page__content {
-  font-size: 0.9rem; // slightly bigger for homepage
+  font-size: 0.8rem; // smaller
 }
