@@ -7,6 +7,6 @@ show_recent_posts: false   # hides Recent Posts in sidebar
 ---
 
 {% capture extra %}
-{% include about_extra.md %}
+{% include about.md %}
 {% endcapture %}
 {{ extra | markdownify }}
