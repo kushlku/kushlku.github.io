@@ -1,7 +1,22 @@
 ---
 ---
-@import "minimal-mistakes"; // import theme first
 
-html {
-  font-size: 14px; // Adjust this value as needed
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Sidebar author profile */
+.author__content,
+.author__name,
+.author__bio {
+  font-size: 1rem; // default
+}
+
+/* Main content pages */
+.page__content {
+  font-size: 0.9rem; // smaller
+}
+
+/* Only homepage */
+body.home .page__content {
+  font-size: 0.9rem; // slightly bigger for homepage
 }
