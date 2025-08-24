@@ -50,8 +50,8 @@ navbar:
     url: "#hobbies"
 
 # Theme settings
-minimal_mistakes_skin: "default" # other skins: default, air, contrast, dark, neon
-theme_mode: "light"   # force light mode, ignore user preference
+minimal_mistakes_skin: "minimal-light" # other skins: default, air, contrast, dark, neon
+theme_mode: "default"   # force light mode, ignore user preference
 markdown: kramdown
 highlighter: rouge
 
