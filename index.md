@@ -10,3 +10,23 @@ show_recent_posts: false   # hides Recent Posts in sidebar
 {% include about.md %}
 {% endcapture %}
 {{ extra | markdownify }}
+
+{% capture extra %}
+{% include publications.md %}
+{% endcapture %}
+{{ extra | markdownify }}
+
+{% capture extra %}
+{% include projects.md %}
+{% endcapture %}
+{{ extra | markdownify }}
+
+{% capture extra %}
+{% include education.md %}
+{% endcapture %}
+{{ extra | markdownify }}
+
+{% capture extra %}
+{% include hobbies.md %}
+{% endcapture %}
+{{ extra | markdownify }}
