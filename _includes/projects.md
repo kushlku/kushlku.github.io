@@ -1,4 +1,4 @@
-
+## Projects
 ### End-to-End Product Variations Workflow with GenAI
 Developed a scalable pay-as-you-go auditing workflow that integrates representation learning, product matching, and 
 generative AI to improve product variation curation and correction. Key innovations included: (1) applying density 
