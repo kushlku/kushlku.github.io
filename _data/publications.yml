@@ -22,6 +22,8 @@ main:
     conference: "CIKM '22: Proceedings of the 31st ACM International Conference on Information & Knowledge Management"
     pdf: https://dl.acm.org/doi/pdf/10.1145/3511808.3557119
     image: ./assets/img/pave.png
+    slides: ./assets/files/PAVE_CIKM_22_main.pdf
+    poster: ./assets/files/PAVE-CIKM-2022-Poster.pdf
     notes: Oral Presentation
 
   - title: "Solving Price Per Unit Problem Around the World: Formulating Fact Extraction as Question Answering"
