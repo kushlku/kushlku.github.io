@@ -1,6 +1,6 @@
 ## Publications
 ### 2025
-- Approximate Nearest Neighbor work<br>
+- Anonymous Research on Approximate Nearest Neighbor Methods<br>
   Under review in SIGMOD'2026.<br>
 
 ### 2023
