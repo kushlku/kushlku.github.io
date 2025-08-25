@@ -1,5 +1,13 @@
 main:
 
+  - title: "Anonymous work on approximate nearest neighbor methods"
+    authors:
+    conference_short:
+    conference:
+    pdf:
+    image: ./assets/img/placeholder.jpeg
+    notes: Under Review SIGMOD 2026
+
   - title: "Unsupervised Multi-Modal Representation Learning for High Quality Retrieval of Similar Products at E-commerce Scale"
     authors: Kushal Kumar, Tarik Arici, Tal Neiman, Jinyu Yang, Shioulin Sam, Yi Xu, Hakan Ferhatosmanoglu, and Ismail Tutar
     conference_short: CIKM 2023
