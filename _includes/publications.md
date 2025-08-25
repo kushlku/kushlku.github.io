@@ -1,4 +1,4 @@
-
+## Publications
 ### 2025
 - Approximate Nearest Neighbor work<br>
   Under review in SIGMOD'2026.<br>
