@@ -1,0 +1,25 @@
+main:
+
+  - title: "Solving Price Per Unit Problem Around the World: Formulating Fact Extraction as Question Answering"
+    authors: Tarik Arici and Kushal Kumar and Hayreddin Çeker and Anoop S V K K Saladi and Ismail Tutar
+    conference_short: KDD 2021 TrueFact Workshop
+    conference: "Third International Workshop on Truth Discovery and Fact Checking: Making a Credible Web for Tomorrow"
+    pdf: https://arxiv.org/pdf/2204.05555.pdf
+    image: ./assets/img/ppu.png
+    notes: Workshop paper
+
+  - title: "Solving Price Per Unit Problem Around the World: Formulating Fact Extraction as Question Answering"
+    authors: Tarik Arici and Kushal Kumar and Hayreddin Çeker and Anoop S V K K Saladi and Ismail Tutar
+    conference_short: KDD 2021 TrueFact Workshop
+    conference: "Third International Workshop on Truth Discovery and Fact Checking: Making a Credible Web for Tomorrow"
+    pdf: https://arxiv.org/pdf/2204.05555.pdf
+    image: ./assets/img/ppu.png
+    notes: Workshop paper
+
+  - title: "Solving Price Per Unit Problem Around the World: Formulating Fact Extraction as Question Answering"
+    authors: Tarik Arici and Kushal Kumar and Hayreddin Çeker and Anoop S V K K Saladi and Ismail Tutar
+    conference_short: KDD 2021 TrueFact Workshop
+    conference: "Third International Workshop on Truth Discovery and Fact Checking: Making a Credible Web for Tomorrow"
+    pdf: https://arxiv.org/pdf/2204.05555.pdf
+    image: ./assets/img/ppu.png
+    notes: Workshop paper

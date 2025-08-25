@@ -1,22 +1,53 @@
 ## Publications
-### 2025
-- Anonymous Research on Approximate Nearest Neighbor Methods<br>
-  Under review in SIGMOD'2026.<br>
 
-### 2023
-- Kushal Kumar, Tarik Arici, Tal Neiman, Jinyu Yang, Shioulin Sam, Yi Xu, Hakan Ferhatosmanoglu, Ismail Tutar<br>
-  **Unsupervised Multi-Modal Representation Learning for High Quality Retrieval of Similar Products at E-commerce Scale**<br>
-  32nd ACM International Conference on Information & Knowledge Management, 2023.<br>
-  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3583780.3615504)]<br>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
 
-### 2022
-- Kushal Kumar, Anoop Saladi<br>
-  **PAVE: Lazy-MDP based Ensemble to Improve Recall of Product Attribute Extraction Models**<br>
-  31st ACM International Conference on Information & Knowledge Management, 2022.<br>
-  [[PDF](https://dl.acm.org/doi/pdf/10.1145/3511808.3557119)]<br>
+<div class="publications">
+<ol class="bibliography">
 
-### 2021
-- Tarik Arici, Kushal Kumar, Hayreddin Çeker, Anoop Saladi, Ismail Tutar<br>
-  **Solving Price Per Unit Problem Around the World: Formulating Fact Extraction as Question Answering**<br> 
-  TrueFact KDD Workshop, 2021.<br>
-  [[PDF](https://arxiv.org/pdf/2204.05555)]<br>
+{% for link in site.data.publications.main %}
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    {% if link.image %} 
+    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">
+    {% if link.conference_short %} 
+    <abbr class="badge">{{ link.conference_short }}</abbr>
+    {% endif %}
+    {% endif %}
+  </div>
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      <div class="author">{{ link.authors }}</div>
+      <div class="periodical"><em>{{ link.conference }}</em>
+      </div>
+    <div class="links">
+      {% if link.pdf %} 
+      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+      {% if link.code %} 
+      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% endif %}
+      {% if link.page %} 
+      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      {% endif %}
+      {% if link.bibtex %} 
+      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+      {% if link.notes %} 
+      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
+      {% endif %}
+      {% if link.others %} 
+      {{ link.others }}
+      {% endif %}
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+{% endfor %}
+
+</ol>
+</div>
