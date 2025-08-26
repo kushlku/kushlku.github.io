@@ -32,4 +32,6 @@ main:
     conference: "Third International Workshop on Truth Discovery and Fact Checking: Making a Credible Web for Tomorrow"
     pdf: https://arxiv.org/pdf/2204.05555
     image: ./assets/img/ppu.png
+    slides: ./assets/files/AMLC-2021-PER-presentation-PPU.pdf
+    poster: ./assets/files/AMLC-2021-Poster-PPU.jpg
     notes: Workshop Paper
