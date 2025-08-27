@@ -3,5 +3,5 @@
   <strong>Indian Institute of Technology, Kanpur</strong><br>
   B.Sc. in Mathematics and Scientific Computing (2014-2018)<br>
   <b>CGPA:</b> 8.9/10.0<br>
-  <em>Minor in Machine Learning and Applications (CGPA 10.0/10.0)</em>
+  <em>Minor in Machine Learning and Applications (CGPA: 10.0/10.0)</em>
 </div>
