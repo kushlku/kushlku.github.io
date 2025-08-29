@@ -6,7 +6,7 @@ clustering as a lossless alternative to blocking to scale pairwise matching; (2)
 multimodal LLM matcher to estimate match probabilities; (3) leveraging efficient off-the-shelf LLM inference for 
 cluster deduplication; and (4) pruning the cluster–cluster graph to surface the most informative and uncertain edges. 
 The new workflow was provably more efficient and achieved _99%_ precision and at least _90%_ recall 
-with more than _5x_ reduction in human touchpoint. 
+with more than _5&times;_ reduction in human touchpoint. 
 
 ### Scalable Product Retrieval and Blocking Service, _2023-2024_
 Built a scalable product retrieval service using multimodal CLIP-like models trained in a distributed setup. 
