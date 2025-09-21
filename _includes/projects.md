@@ -21,11 +21,12 @@ E-commerce Scale](https://dl.acm.org/doi/pdf/10.1145/3583780.3615504) as an oral
 Product attribute extraction models often suffer from low recall when product data has missing or noisy information. In
 this project, we developed a Reinforcement Learning based method to improve recall of any product attribute extraction
 model by leveraging information from neighbors of the given product. We formulated this problem as a first order Markov 
-Decision Process and trained a Reinforcement Learning agent using Proximal Policy Optimization (PPO) to predict agent
-actions to choose the best attribute value from a ranked list of product neighbors. We show that our method outperforms 
-several baselines to aggregate neighbor information without needing larger context window than the initial context window
-of the extraction model. This work was published in CIKM'22 titled [PAVE: Lazy-MDP based Ensemble to Improve Recall of 
-Product Attribute Extraction Models](https://dl.acm.org/doi/pdf/10.1145/3511808.3557119) as an oral paper.
+Decision Process and trained a Reinforcement Learning agent using Proximal Policy Optimization (PPO) using novel rewards 
+to predict agent actions to choose the best attribute value from a ranked list of product neighbors. We show that our 
+method outperforms several baselines to yield 10\% higher recall at same precision without needing larger context window
+than the initial context window of the extraction model. This work was published in CIKM'22 titled 
+[PAVE: Lazy-MDP based Ensemble to Improve Recall of Product Attribute Extraction Models](https://dl.acm.org/doi/pdf/10.1145/3511808.3557119) 
+as an oral paper.
 
 
 ### Multi-Attribute Extraction using Transformers, _2021-2022_
