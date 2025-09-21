@@ -1,5 +1,5 @@
 ## Projects
-### End-to-End GenAI Entity Resolution Workflow, _2024-present_
+### Demeter: End-to-End GenAI Entity Resolution Workflow, _2024-present_
 Developed a scalable pay-as-you-go entity resolution workflow for products that integrates representation learning, entity matching, 
 and generative AI to improve de-duplication pipeline. Key innovations include: (1) applying nonparametric 
 clustering as a lossless alternative to blocking to scale pairwise matching by cluster merging; (2) developing a performant, 
@@ -8,7 +8,7 @@ cluster canonicalization; and (4) pruning the cluster–cluster graph to obtain 
 The new workflow was provably more efficient and achieved _99%_ precision and at least _90%_ recall with more than _5&times;_ 
 reduction in human touchpoint.
 
-### Scalable Product Retrieval and Blocking Service, _2023-2024_
+### Mergen: Scalable Product Retrieval and Blocking Service, _2023-2024_
 Built a scalable product retrieval service using multimodal CLIP-like models trained in a distributed setup. Optimized 
 for large-batch training and efficient image loading, the models exhibited strong generalization across diverse product 
 categories and product relationships, enabling task-agnostic retrieval and blocking for large-scale pairwise workflows. 
@@ -17,7 +17,7 @@ at _18%_ better reduction ratio with multimodal retrieval capabilities and _73%_
 publication titled [Unsupervised Multimodal Representation Learning for High Quality Retrieval of Similar Products at 
 E-commerce Scale](https://dl.acm.org/doi/pdf/10.1145/3583780.3615504) as an oral paper.
 
-### Improve Recall of Product Attribute Extraction Models using Reinforcement Learning, _2022-2023_
+### PAVE: Improve Recall of Product Attribute Extraction Models using Reinforcement Learning, _2022-2023_
 Product attribute extraction models often suffer from low recall when product data has missing or noisy information. In
 this project, we developed a Reinforcement Learning based method to improve recall of any product attribute extraction
 model by leveraging information from neighbors of the given product. We formulated this problem as a first order Markov 
