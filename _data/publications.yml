@@ -6,7 +6,7 @@ main:
     conference:
     pdf:
     image: ./assets/img/placeholder.jpeg
-    notes: Under Review SIGMOD 2026
+    notes: Under Review VLDB 2026
 
   - title: "Unsupervised Multimodal Representation Learning for High Quality Retrieval of Similar Products at E-commerce Scale"
     authors: "<b>Kushal Kumar</b>, Tarik Arici, Tal Neiman, Jinyu Yang, Shioulin Sam, Yi Xu, Hakan Ferhatosmanoglu, and Ismail Tutar"
