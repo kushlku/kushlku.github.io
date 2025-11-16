@@ -23,7 +23,6 @@
 .timeline-list {
   list-style: none;
   border-left: 2px solid #999;
-  margin-left: 20px;
   padding-left: 25px;
 }
 
