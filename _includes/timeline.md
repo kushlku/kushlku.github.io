@@ -6,7 +6,6 @@
     <li class="timeline-item">
       <div class="timeline-date">{{ item.date }}</div>
       <div class="timeline-content">
-        <div class="exp-title">{{ item.title }}</div>
         <div class="exp-summary">{{ item.summary }}</div>
       </div>
     </li>
@@ -50,15 +49,8 @@
   color: #555;
 }
 
-.exp-title {
-  font-size: 15px;
-  margin-left: 15px;
-  font-weight: 500;
-  color: #555;
-}
-
 .exp-summary {
-  font-size: 12px;
+  font-size: 15px;
   color: #555;
   margin-left: 15px;
   line-height: 1;
