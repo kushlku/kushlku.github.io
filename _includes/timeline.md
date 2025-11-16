@@ -28,7 +28,7 @@
 
 .timeline-item {
   position: relative;
-  margin-bottom: 32px;
+  margin-bottom: 1px;
 }
 
 .timeline-item::before {
@@ -45,23 +45,22 @@
 .timeline-date {
   font-size: 15px;
   font-weight: 600;
-  margin-bottom: 10px;
   margin-left: 10px;
   color: #555;
 }
 
 .exp-title {
   font-size: 17px;
-  font-weight: 700;
-  margin-bottom: 6px;
   margin-left: 15px;
   color: #555;
+  font-style: italic;
 }
 
 .exp-summary {
   font-size: 15px;
   color: #333;
   margin-left: 15px;
-  line-height: 1.5;
+  line-height: 1;
+  font-style: italic;
 }
 </style>
