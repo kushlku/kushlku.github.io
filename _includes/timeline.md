@@ -22,45 +22,45 @@
 
 .timeline-list {
   list-style: none;
-  border-left: 3px solid #ccc;
+  border-left: 2px solid #999;
   margin-left: 20px;
-  padding-left: 30px;
+  padding-left: 25px;
 }
 
 .timeline-item {
   position: relative;
-  margin-bottom: 40px;
+  margin-bottom: 32px;
 }
 
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: -11px;
-  top: 6px;
-  width: 14px;
-  height: 14px;
-  background: #1f77b4;
+  left: -10px;
+  top: 4px;
+  width: 10px;
+  height: 10px;
+  background: #000;
   border-radius: 50%;
-  border: 2px solid white;
-  box-shadow: 0 0 0 2px #1f77b4;
 }
 
 .timeline-date {
-  font-size: 16px;
-  font-weight: 700;
-  margin-bottom: 8px;
-  margin-left: -5px;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-left: -2px;
+  color: #000;
 }
 
 .exp-title {
-  font-size: 20px;
+  font-size: 17px;
   font-weight: 700;
   margin-bottom: 6px;
+  color: #000;
 }
 
 .exp-summary {
-  font-size: 16px;
-  color: #555;
-  max-width: 90%;
+  font-size: 15px;
+  color: #333;
+  line-height: 1.5;
 }
 </style>
