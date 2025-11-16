@@ -1,4 +1,4 @@
-<h2 id="experience" style="margin: 2px 0px -15px;">Experience</h2>
+<h2 id="experience" style="margin: 2px 0px -15px;">Timeline</h2>
 
 <div class="experience-timeline">
   <ul class="timeline-list" style="margin-top: 25px;">
@@ -44,23 +44,22 @@
 
 .timeline-date {
   font-size: 15px;
-  font-weight: 600;
+  font-weight: 800;
   margin-bottom: 5px;
   margin-left: 10px;
   color: #555;
 }
 
 .exp-title {
-  font-size: 17px;
+  font-size: 15px;
   margin-left: 15px;
   font-weight: 500;
   color: #555;
 }
 
 .exp-summary {
-  font-size: 15px;
-  color: #333;
-  font-weight: 100;
+  font-size: 12px;
+  color: #555;
   margin-left: 15px;
   line-height: 1;
   font-style: italic;
