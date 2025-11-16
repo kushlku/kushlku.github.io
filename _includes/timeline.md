@@ -50,7 +50,7 @@
 
 .exp-summary {
   font-size: 16px;
-  color: #cc3366;
+  color: #db7093;
   margin-left: 25px;
 }
 </style>
