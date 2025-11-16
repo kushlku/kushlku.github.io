@@ -35,8 +35,8 @@
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: -10px;
-  top: 4px;
+  left: -16px;
+  top: 2px;
   width: 10px;
   height: 10px;
   background: #666;
@@ -47,7 +47,7 @@
   font-size: 15px;
   font-weight: 600;
   margin-bottom: 10px;
-  margin-left: -2px;
+  margin-left: 10px;
   color: #555;
 }
 
