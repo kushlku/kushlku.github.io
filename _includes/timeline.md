@@ -49,9 +49,8 @@
 }
 
 .exp-summary {
-  font-size: 15px;
-  color: #333;
+  font-size: 17px;
+  color: #555;
   margin-left: 25px;
-  font-style: italic;
 }
 </style>
