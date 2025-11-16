@@ -52,5 +52,6 @@
   font-size: 16px;
   color: #db7093;
   margin-left: 25px;
+  font-style: italic;
 }
 </style>
