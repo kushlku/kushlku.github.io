@@ -2,7 +2,7 @@
 
 <div class="experience-timeline">
   <ul class="timeline-list">
-  {% for item in site.data.experience.main %}
+  {% for item in site.data.timeline.main %}
     <li class="timeline-item">
       <div class="timeline-date">{{ item.date }}</div>
       <div class="timeline-content">
