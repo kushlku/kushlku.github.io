@@ -42,7 +42,7 @@
 }
 
 .timeline-date {
-  font-size: 15px;
+  font-size: 17px;
   font-weight: 800;
   margin-bottom: 5px;
   margin-left: 10px;
@@ -51,9 +51,8 @@
 
 .exp-summary {
   font-size: 15px;
-  color: #555;
-  margin-left: 15px;
-  line-height: 1;
+  color: #333;
+  margin-left: 25px;
   font-style: italic;
 }
 </style>
