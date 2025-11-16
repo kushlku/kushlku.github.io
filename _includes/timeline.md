@@ -35,10 +35,10 @@
 .timeline-item::before {
   content: "";
   position: absolute;
-  left: -16px;
-  top: 2px;
-  width: 10px;
-  height: 10px;
+  left: -12px;
+  top: 8px;
+  width: 7px;
+  height: 7px;
   background: #666;
   border-radius: 50%;
 }
@@ -55,12 +55,14 @@
   font-size: 17px;
   font-weight: 700;
   margin-bottom: 6px;
+  margin-left: 15px;
   color: #555;
 }
 
 .exp-summary {
   font-size: 15px;
   color: #333;
+  margin-left: 15px;
   line-height: 1.5;
 }
 </style>
