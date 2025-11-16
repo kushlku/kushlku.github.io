@@ -16,45 +16,51 @@
 
 <style>
 .experience-timeline {
-  padding-left: 10px;
+  padding-left: 0;
+  margin-left: 0;
 }
 
 .timeline-list {
   list-style: none;
-  border-left: 2px solid #ccc;
+  border-left: 3px solid #ccc;
   margin-left: 20px;
-  padding-left: 20px;
+  padding-left: 30px;
 }
 
 .timeline-item {
   position: relative;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
 }
 
 .timeline-item::before {
   content: "";
   position: absolute;
   left: -11px;
-  top: 4px;
-  width: 12px;
-  height: 12px;
-  background: #3498db;
+  top: 6px;
+  width: 14px;
+  height: 14px;
+  background: #1f77b4;
   border-radius: 50%;
+  border: 2px solid white;
+  box-shadow: 0 0 0 2px #1f77b4;
 }
 
 .timeline-date {
-  font-size: 14px;
-  font-weight: bold;
-  margin-bottom: 5px;
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 8px;
+  margin-left: -5px;
 }
 
 .exp-title {
-  font-size: 16px;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 6px;
 }
 
 .exp-summary {
-  font-size: 14px;
+  font-size: 16px;
   color: #555;
+  max-width: 90%;
 }
 </style>

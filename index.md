@@ -18,12 +18,7 @@ layout: homepage
 {{ extra | markdownify }}
 
 {% capture extra %}
-{% include experience.md %}
-{% endcapture %}
-{{ extra | markdownify }}
-
-{% capture extra %}
-{% include education.md %}
+{% include timeline.md %}
 {% endcapture %}
 {{ extra | markdownify }}
 
