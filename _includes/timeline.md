@@ -1,7 +1,7 @@
 <h2 id="experience" style="margin: 2px 0px -15px;">Experience</h2>
 
 <div class="experience-timeline">
-  <ul class="timeline-list">
+  <ul class="timeline-list" style="margin-top: 25px;">
   {% for item in site.data.timeline.main %}
     <li class="timeline-item">
       <div class="timeline-date">{{ item.date }}</div>
@@ -39,7 +39,7 @@
   top: 4px;
   width: 10px;
   height: 10px;
-  background: #000;
+  background: #666;
   border-radius: 50%;
 }
 
@@ -48,14 +48,14 @@
   font-weight: 600;
   margin-bottom: 10px;
   margin-left: -2px;
-  color: #000;
+  color: #555;
 }
 
 .exp-title {
   font-size: 17px;
   font-weight: 700;
   margin-bottom: 6px;
-  color: #000;
+  color: #555;
 }
 
 .exp-summary {
