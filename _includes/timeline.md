@@ -34,7 +34,7 @@
   content: "";
   position: absolute;
   left: -12px;
-  top: 8px;
+  top: 10px;
   width: 7px;
   height: 7px;
   background: #666;
