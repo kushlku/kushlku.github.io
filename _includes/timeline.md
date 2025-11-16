@@ -43,7 +43,6 @@
 
 .timeline-date {
   font-size: 17px;
-  font-weight: 800;
   margin-bottom: 5px;
   margin-left: 10px;
   color: #555;
