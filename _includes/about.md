@@ -11,4 +11,4 @@ My current research interests include:
 - Multimodal Clustering and Entity Resolution
 - Approximate Nearest Neighbor Search
 - Multimodal Representation Learning
-- Continual Learning
+- Fine-Grained Visual Reasoning
